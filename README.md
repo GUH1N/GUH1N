@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Guhaa Priyan!<br><br>I'm a passionate developer with expertise in **machine learning** and **full-stack development**. I enjoy building end-to-end applications that leverage data-driven insights to solve real-world problems. Whether it's developing complex algorithms or designing intuitive user interfaces, I'm always excited to dive into new challenges.
+<p align="center">
+👋 Hi, GUHAA PRIYAN
+</p>I'm a passionate developer with expertise in **machine learning** and **full-stack development**. I enjoy building end-to-end applications that leverage data-driven insights to solve real-world problems. Whether it's developing complex algorithms or designing intuitive user interfaces, I'm always excited to dive into new challenges.
 
 
 ## 🌐 Socials:
